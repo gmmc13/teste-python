@@ -1,1 +1,1 @@
-Adicionei um readme só para usar git pull e baixar para meu repositório local
+Aprendendo GitHub usando o livro GitHub Seu Código Versionado
